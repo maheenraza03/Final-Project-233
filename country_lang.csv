@@ -1,0 +1,195 @@
+Country,Code,Language
+Afghanistan,93,Pashto
+Albania,355,Albanian
+Algeria,213,Tamazight (Latin)
+Andorra,376, Catalan
+Angola,244, Portuguese
+Antigua and Barbuda,1268,English
+Argentina,54,Spanish
+Armenia,374,Armenian
+Australia,61,English
+Austria,43,German
+Azerbaijan,994,Azeri (Latin)
+Bahamas,1242,English
+Bahrain,973,Arabic
+Bangladesh,880,Bengali
+Barbados,1246,English
+Belarus,375,Belarusian
+Belgium,32,French
+Belize,501,English
+Benin,229,French
+Bhutan,975,Dzongkha
+Bolivia,591,Spanish
+Bosnia and Herzegovina,387,Serbian (Latin)
+Botswana,267,English
+Brazil,55,Portuguese
+Brunei,673,Malay
+Bulgaria,359,Bulgarian
+Burkina Faso,226,French
+Burundi,257,French
+Cambodia,855,Khmer
+Cameroon,237,French
+Canada,1,English
+Cape Verde,238,Portuguese
+Central African Republic,236,Sango
+Chad,235,French
+Chile,56,Spanish
+China,86,Yi
+Colombia,57,Spanish
+Comoros,269,Comorian
+Costa Rica,506,Spanish
+Cote d'Ivoire,225,French
+Croatia,385,Croatian
+Cuba,53,Spanish
+Cyprus,357,Greek
+Czech Republic,420,Czech
+Dem. Rep. of Congo,243,Frencg
+Denmark,45,Danish
+Djibouti,253,French
+Dominica,1767,English
+Dominican Republic,1849,Spanish
+Ecuador,593,Spanish
+Egypt,20,Arabic
+El Salvador,503,Spanish
+Equatorial Guinea,240,Spanish
+Eritrea,291,Tigrinya
+Estonia,372,Estonian
+Eswatini,268,Swaiti
+Ethiopia,251,Amharic
+Fed. Sts. Micronesia,691,Chuukese
+Fiji,679,Fijiian
+Finland,358,Swedish
+France,33,French
+Gabon,241,French
+Gambia,220,English
+Georgia,995,Georgian
+Germany,49,Upper sorbian
+Ghana,233,English
+Greece,30,Greek
+Grenada,1473,English
+Guatemala,502,Spanish
+Guinea,224,French
+Guinea-Bissau,245,Portuguese
+Guyana,592,English
+Haiti,509,Haitian Creole
+Honduras,504,Spanish
+Hungary,36,Hungarian
+Iceland,354,Icelandic
+India,91,Telugu
+Indonesia,62,Indonesian
+Iran,98,Persian
+Iraq,964,Arabic
+Ireland,353,Irish
+Israel,972,Hebrew
+Italy,39,Italian
+Jamaica,1876,English
+Japan,81,Japanese
+Jordan,962,Arabic
+Kazakhstan,7,Kazakh
+Kenya,254,Kiswahili
+Kiribati,686,Kiribati
+Kuwait,965,Arabic
+Kyrgyz Republic,996,Kyrgyz
+Lao,856,Lao
+Latvia,371,Latvian
+Lebanon,961,Arabic
+Lesotho,266,Southern Sotho
+Liberia,231,English
+Libya,218,Arabic
+Liechtenstein,423,German
+Lithuania,370,Lithuanian
+Luxembourg,352,Luxembourgish
+Madagascar,261,Malagasy
+Malawi,265,English
+Malaysia,60,Malay
+Maldives,960,Divehi
+Mali,223,French
+Malta,356,Maltese
+Marshall Islands,692,Marshallese
+Mauritania,222,Arabic
+Mauritius,230,English
+Mexico,52,Spanish
+Moldova,373,Romanian
+Monaco,377,French
+Mongolia,976,Mongolian (Cyrillic)
+Montenegro,382,Serbian (Latin)
+Morocco,212,Arabic
+Mozambique,258,Portuguese
+Myanmar,95,Burmese
+Namibia,264,English
+Nauru,674,Nauruan
+Nepal,977,Nepali
+Netherlands,31,Frisian
+New Zealand,64,Maori
+Nicaragua,505,Spanish
+Niger,227,French
+Nigeria,234,Yoruba
+North Korea,850,Korean
+North Macedonia,389,Macedonian
+Norway,47,Sami (Southern)
+Oman,968,Arabic
+Pakistan,92,Urdu
+Palau,680,Palauan
+Palestine,970,Arabic
+Panama,507,Spanish
+Papua New Guinea,675,Tok Pisin
+Paraguay,595,Spanish
+Peru,51,Spanish
+Philippines,63,English
+Poland,48,Polish
+Portugal,351,Portuguese
+Qatar,974,Arabic
+Rep. of Congo,242,French
+Romania,40,Romanian
+Russia,7,Yakut
+Rwanda,250,Kinyarwanda
+Samoa,685,Samoan
+San Marino,378,Italian
+Sao Tome and Principe,239,Portuguese
+Saudi Arabia,966,Arabic
+Senegal,221,Wolof
+Serbia,381,Serbian (Latin)
+Seychelles,248,English
+Sierra Leone,232,English
+Singapore,65,English
+Slovak Republic,421,Slovak
+Slovenia,386,Slovenian
+Solomon,677,English
+Somalia,252,Somali
+South Africa,27,Setswana
+South Korea,82,Korean
+South Sudan,211,English
+Spain,34,Spanish
+Sri Lanka,94,Sinhala
+St. Kitts and Nevis,1,English
+St. Lucia,1,English
+St. Vincent and the Grenadines,1,English
+Sudan,249,Arabic
+Suriname,597,Dutch
+Sweden,46,Swedish
+Switzerland,41,Romansh
+Syria,963,Syriac
+Tajikistan,992,Tajik (Cyrillic)
+Tanzania,255,Swahili
+Thailand,66,Thai
+Timor-Leste,670,Portuguese
+Togo,228,French
+Tonga,676,Tongan
+Trinidad and Tobago,1868,English
+Tunisia,216,Arabic
+Turkey,90,Turkish
+Turkmenistan,993,Turkmen
+Tuvalu,688,Tuvaluan
+Uganda,256,Swahili
+Ukraine,380,Ukrainian
+United Arab Emirates,971,Arabic
+United Kingdom,44,English
+United States,1,English
+Uruguay,598,Spanish
+Uzbekistan,998,Uzbek (Latin)
+Vanuatu,678,French
+Venezuela,58,Spanish
+Vietnam,84,Vietnamese
+Yemen,967,Arabic
+Zambia,260,English
+Zimbabwe,263,English
